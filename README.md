@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c74f581f-7899-42d2-867c-f2abbb78e81e" width="100%"/>
+  <img width="1584" height="396" alt="dhanushka_linkedin_banner_v2" src="https://github.com/user-attachments/assets/3f3d598f-69ba-4ea2-ab5b-b05d4979e062" />
 </p>
 
 <h2 align="center">👋 Hi there, I'm Dhanushka Rathnayake</h2>
