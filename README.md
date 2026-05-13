@@ -112,7 +112,7 @@ I'm a passionate **Computer Engineering student** with a strong focus on bridgin
       </a>
     </td>
     <td width="50%">
-      <b>💰 <a href="https://github.com/Dhanushka0626/Laptop-price-predictor">Laptop Price Predictor</a></b><br>
+      <b>💰 <a href="https://github.com/Dhanushka0626/Laptop-price-detector">Laptop Price Predictor</a></b><br>
       <strong>Machine Learning Model</strong><br>
       ML regression model for predicting laptop prices based on hardware specifications and market factors.<br>
       <br>
